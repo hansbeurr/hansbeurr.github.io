@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["Python", "Javascript", "Bash", "SQL" ]
+      "keywords": ["Python", "Javascript", "Bash", "SQL","Typescript" ]
     },
     {
       "name": "Toolsets/OS",
@@ -67,47 +67,6 @@
         " Gained a fundamental understanding on System Admin and Patch Management on an enterprise level.",
         " Used Metasploit in a controlled lab environment to perform penetration testing exercises."
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
