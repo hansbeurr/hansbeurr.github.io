@@ -6,36 +6,36 @@
     "email": "hansbeur@hawaii.edu",
     "phone": "",
     "website": "https://hansbeurr.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2027.",
     "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "hansbeurr", "url": "http://github.com/hansbeur" },
+      { "network": "github", "username": "hansbeurr", "url": "http://github.com/hansbeurr" },
       { "network": "linkedin", "username": "hansbeur", "url": "http://linkedin.com/in/hansbeur" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "CTFs" },
+    { "name": "Offensive Security" },
+    { "name": "Network Security & Traffic Analysis" },
+    { "name": "Software Engineering" },
+    { "name": "Gaming" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": ["Python", "Javascript", "Bash", "SQL" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Linux", "Git/GitHub", "Powershell", "Virtulization" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Fall, 2027)",
+      "studyType": "B.A.",
+      "startDate": "2025-01-07",
       "endDate": "Present",
       "courses": [
       ]
