@@ -18,7 +18,7 @@
     { "name": "Offensive Security" },
     { "name": "Network Security & Traffic Analysis" },
     { "name": "Software Engineering" },
-    { "name": "Gaming" }
+    { "name": "Computer Hardware" }
   ],
   "skills": [
     {
@@ -43,7 +43,7 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
+      "company": "Alaka'ina Foundation Family of Companies",
       "position": "Web Developer",
       "website": "",
       "startDate": "2015-08-01",
@@ -55,15 +55,16 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Alaka'ina Foundation Family of Companies",
+      "position": "Cybersecurity Intern",
+      "website": "",
+      "startDate": "2025-06-04",
+      "endDate": "2025-08-07",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Observed and learned from analysts on Triaging, Threat hunting, and Threat assessment reporting.",
+        " Gained a fundamental understanding on System Admin and Patch Management on an enterprise level.",
+        " Used Metasploit in a controlled lab environment to perform penetration testing exercises."
       ]
     }
   ],
