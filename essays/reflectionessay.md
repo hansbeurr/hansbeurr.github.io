@@ -11,9 +11,8 @@ labels:
   
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/reflection_essay/cybersecurity.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
 ## Background Overview
 
