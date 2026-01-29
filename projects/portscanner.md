@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/cotton/nmap.jpg
 title: "Port Scanner Script"
 date: 2025
 published: true
@@ -13,7 +13,9 @@ summary: "A script for streamlining using nmap during a certification course."
 ---
 
 <!-- <img class="img-fluid" src="../img/cotton/scan.png" width="1200" height="300"> -->
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<!-- <img class="img-fluid" src="../img/cotton/cotton-header.png"> -->
+
+
 
 ## Why 
 During CTFs, enumeration is almost always the majority of the challenge and often makes up about 90% of the work, because every "*exploit*" depends on understanding what services are running, how they are exposed, and how they connect to each other. I personally dislike reading through the raw Nmap output as it's very text heavy, especially when scanning multiple hosts or re-running scans after gaining new access. This script aims to simplify the output of Nmap. It takes the scan results and reorganizes them into a clean, readable, host-focused summary that shows what is online, what ports are open, and what might be exploitable.
