@@ -15,7 +15,7 @@ summary: "Creating a Virutal Security Operations Center to detect and analyze mo
 ---
 
 
-As I work toward becoming an ethical hacker, I wanted to see the "other side" of cybersecurity. I built a virtual Security Operations Center (SOC) to learn how defenders find and stop hackers. This project helped me move past just reading about attacks. Instead, I built a real system that can collect and show security data as it happens. For this project, I set up several virtual computers on my own machine. I used a Kali Linux computer as the "Attacker" and a Windows 11 computer as the "Victim." Every move the attacker made—like trying to guess a password or running a malicious file—was sent to a central system called a SIEM. This system acted like a security camera for the network, letting me see exactly how an attack looks to a defender.
+As I work towards my Security Science Degree, I wanted immediate hands on exprience of cybersecurity. For that, I built a virtual Security Operations Center (SOC) to learn how defenders find and stop hackers. This project helped me move past just reading about attacks. Instead, I built a real system that can collect and show security data as it happens. For this project, I set up several virtual computers on my own machine. I used a Kali Linux computer as the "Attacker" and a Windows 7 computer as the "Victim." Every move the attacker made such as running a malicious file, was sent to a central system called a SIEM. This system lets me see exactly how an attack looks to a junior defender.
 
 <img src="../img/soc_lab/soc_lab_home.png" style="max-width: 100%; height: auto;">
 
