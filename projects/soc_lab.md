@@ -22,7 +22,7 @@ As I work toward becoming an ethical hacker, I wanted to see the "other side" of
 ```
 Barebones Lab due to limited hardware
 SOC-Machine: Ubuntu LTS Server
-Vulnerable Machine: Windows 7 (Stuxbot Vunerable)
+Vulnerable Machine: Windows 7 (Stuxbot Vulnerable)
 ```
 
 ## Home Page
@@ -38,4 +38,5 @@ We find an application called <a href ="https://jumpcloud.com/it-index/what-is-r
 
 *This query monitors PowerShell Event ID 4104 (Remote Command Execution) to detect the use of the Enter-PSSession command, which indicates an adversary is attempting Lateral Movement to remotely control another machine on the network.*
 
-
+## Next Steps
+As the images show, my current setup is designed to detect old common vulnerabilities. I plan to continuously improve this lab so it can identify modern threats and more complex attack patterns. My goal is to move beyond simple "signature-based" detection, where the system looks for a specific file name and move toward "behavior-based" detection, where the system looks for suspicious actions. To achieve this, I will try and experiment with Sigma rules, which are a universal language used by security teams to share descriptions of how attacks look in logs and research more on "Living off the Land" techniques.
