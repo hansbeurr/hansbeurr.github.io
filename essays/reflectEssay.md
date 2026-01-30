@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Learning to Code Without a Safety Net (of Time)"
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-21
+date: 2026-01-22
 published: true
 labels:
   - Cybersecurity

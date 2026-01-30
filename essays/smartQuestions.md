@@ -1,32 +1,43 @@
 ---
 layout: essay
 type: essay
-title: "Learning to Code Without a Safety Net (of Time)"
+title: "Have you tried turning the code on and off?"
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-21
+date: 2026-01-29
 published: true
 labels:
-  - Cybersecurity
+  - SMART Question
   - Software Engineering
+  - 
   
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/reflection_essay/cybersecurity.jpg">
+# A Smart Way to ask questions
+
+In software engineering, being able to talk to other developers is just as important as writing code. When you run into a problem you can't solve alone, you often turn to the online community for help. Eric S. Raymond wrote a famous essay called [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) which explains that the way you ask a question determines how good the answer will be. For any developer, asking a vague or most always often the case, a lazy question, is a mistake because it wastes everyone's time and makes it harder to get the project moving again.
+
+---
+
+### Be Clear and Prepared
+
+A great example of the "smart way" is a well-known Stack Overflow post about [**why a sorted array processes faster than an unsorted one**](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array). In this post, the developer noticed that their code ran much slower when the data was messy compared to when it was organized. Instead of just complaining that their code was slow, they provided a small, simple example that anyone could run to see the problem for themselves. They followed the best rules by narrowing the problem down to one specific loop and using a clear title that explained exactly what was happening.
 
 
-## Background Overview
 
-As a Security Science student, my foundation has been built on traditional languages like C, C++, and Python. I am used to managing memory pointers, and worrying about the buffer overflows that come with them, or enjoying the simplicity of Python scripts for quick automation and packet analysis. However, the world of modern web development is relatively new to me. Coming into this course with limited experience in JavaScript and TypeScript, the learning curve has been very steep as it introduces two major shifts: a transition to the new syntax of TypeScript and the high-pressure *pedagogy* of “Athletic Software Engineering”. While the language itself offers the kind of structural integrity I value in secure coding, the method of learning it has been a new source of stress. Comparing TypeScript to the languages I am familiar with offers an interesting contrast. In C and C++, strict typing is the norm, but it comes with the overhead of manual memory management and complex compilation steps. Python, on the other hand, is flexible, perfect for writing quick exploits or scanners, but lacks the safety of compile-time checking. TypeScript, in my opinion, sits in the ideal middle ground. It provides the safety net I appreciate from C++, catching type errors before the code runs and acting almost like a built-in static analysis tool, while retaining the flexibility of a high-level scripting language.
+Because the question was so well-made, experts were able to give a perfect answer about how computers "guess" what the code will do next, which is called branch prediction. The community didn't have to spend any time asking for more details or more code. They could jump straight to the fix because the person asking the question had already done their homework. This shows that a smart question helps everyone learn something new and valuable.
 
-<img width="200px" class="rounded float-end pe-4" src="../img/reflection_essay/ctf.png">
+---
 
-## WODS == CTFs?! 
+### Quantity > Quality
 
-Regarding the WODs, while I see the value in the language, the Athletic Software Engineering approach is a different story. To be honest, I find the Workouts of the Day incredibly stressful. In my previous coding experience, whether debugging a C++ pointer mismatch or writing a Python script to parse logs, I usually had the time to think, research, and test. This methodology strips that time away. Because I am still relatively new to the syntax of TypeScript, fighting the clock feels overwhelming. It reminds me of the pressure of a Capture The Flag competition or a mock live incident response scenario, but without the adrenaline of the hunt. I often know what logic I want to implement, but I get stuck on the specific syntax required to make the compiler happy. The Rx times, in my opinion, are unforgiving, and the pressure to perform at speed often leads to simple typing mistakes that cost valuable minutes. *But do I find the WODs useful?* Yes! In a real security context, like patching a vulnerability or writing a script during an attack, you do not have time to browse through a forum or fact check an AI for the solution. This repetition is forcing me to memorize syntax that I would otherwise look up every single time. It is building muscle memory, which is the stated goal of the pedagogy. *But is it enjoyable?* Surprisingly, yes. There is a genuine feeling of accomplishment in realizing that a task, which might have taken me an hour just last week, can now be completed in half the time.
+On the other hand, some questions show the "not smart" way, like when a developer [**posted a huge Bash script and asked why their calculator wasn't working**](https://stackoverflow.com/questions/76354433/i-have-built-a-cli-calculator-in-bash-and-cant-figure-out-why-i-am-getting-mult). In this case, the developer shared a giant file with many different parts and basically asked the community to find the bugs for them. This is a common mistake because having a lot of text doesn't always mean you are being precise. 
 
-## Finding the Middle Ground
+The person asking failed to remove the parts of the code that weren't related to the bug and didn't give a specific error message. As you might expect, the question was quickly closed by the moderators because it was too broad. The end result was that nobody got help, and the conversation was mostly about how the question was poorly written rather than how to fix the code. This is a clear example of how a "not smart" question stops progress.
 
-Despite the stress, I think this style of learning will ultimately work for me. My background in C and Python gave me the logic to dissect vulnerabilities, but it didn't prepare me for the speed required to fix them in a modern web environment. Athletic Software Engineering is forcing me to confront my lack of fluency head-on, treating code efficiency almost like a readiness drill for a security incident. It is an exhausting way to learn, and I certainly miss the slower, more analytical pace of reverse engineering or packet analysis. However, I cannot deny that I am writing TypeScript faster today than I was a week ago. If the ultimate goal is to be a security engineer who can not only break systems but also rapidly build and patch them under pressure, then this high-intensity training is exactly the hardening process I need.
+---
 
+### Reflection
 
-*ChatGPT was used for grammar checking and the title.*
+Looking these examples, I’ve realized that asking a smart question is actually part of the debugging process. When I take the time to shrink a bug down to one small test case before I ask for help, I often end up finding the answer myself. This careful way of working is what makes someone a professional rather than someone who just copies and pastes code without thinking. 
+
+When I apply these principles to a CTF, a "smart" question includes the specific Nmap scan results, the version of the service I am targeting, and exactly what I have already tried to exploit it. By documenting my steps—showing that I’ve checked for common CVEs, tested for basic misconfigurations, and narrowed the problem down to a specific service—I am essentially performing a root cause analysis. This process of asking SMART questions often leads to the "Aha!" moment before I even hit the send button. It turns the act of asking for help into a final sanity check rather than a plea for the answer.

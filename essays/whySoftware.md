@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Learning to Code Without a Safety Net (of Time)"
+title: "Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-21
+date: 2026-01-23
 published: true
 labels:
   - Software Engineering
