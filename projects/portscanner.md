@@ -64,4 +64,4 @@ def analyze_results(nm):
 
 While the script aims to simplify the results of a network scan, future updates will focus on making the start of the process just as easy. A major goal is to build a visual menu right in the terminal. Instead of manually typing complicated arguments, the script would present a simple graphic interface offering three clear presets: "Stealth" to avoid detection, "Noisy" for maximum speed, or "Default" for a standard check. This feature would allow me to instantly select an option, without needing to type out the specific commands or flags required for each method.
 
-
+*Source code available upon request*

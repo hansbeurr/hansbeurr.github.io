@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/cpts/cpts.png
-title: "CPTS Certification"
+title: "CPTS Journey"
 date: 2026
 published: true
 labels:
@@ -21,4 +21,6 @@ The Certified Penetration Testing Specialist (CPTS) is a technical certification
 ## Why?
 I have decided to take on the CPTS as one of my personal projects because I wanted to see if I could actually apply what I have been learning in my security courses, my practice with CTFs, and my own self-directed study to a real-world scenario. I have always been drawn to the analytical side of security, and the CPTS feels like the perfect way to test that. The certification is not just about running tools. Instead, it is about the persistence and the deep dive enumeration required to understand a system even better than the person who built it. Beyond technical challenge, this project is to prove to myself that I can handle the pressure of a professional grade assessment. I have already spent time building my own Python scripts to clean up Nmap data for CTFs, and I realized that I want to take that mindset to the next level. The CPTS is notoriously known to be rigorous, especially with its focus on Active Directory and detailed reporting, which is exactly the kind of hands on experience I am looking for.
 
+Source: <a href="https://github.com/hansbeur/Pentesting-Notes.git">CPTS Notes(WIP)</a>
 
+More Info on <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist">CPTS</a>
