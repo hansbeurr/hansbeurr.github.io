@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/vacay/elastic.png
 title: "Home Lab SOC"
 date: 2025
 published: true
