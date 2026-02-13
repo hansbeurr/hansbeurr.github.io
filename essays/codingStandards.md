@@ -22,7 +22,7 @@ When I first started coding, I viewed "coding standards" as an equivalent of a t
 
 ## Restrictions
 
-<img src="../img/codingStandards/meme.png" align="right" class="rounded float-end pe-4" style="max-width: 75%; height: auto;">
+<img src="../img/codingStandards/meme.png" align="right" class="rounded float-end pe-4" style="max-height: 75%; height: auto;">
 
 Many students, including myself view a ESLint more like a spell-checker, but it is actually more like a structural engineer. In a language as "permissive" as JavaScript, it is very easy to write code that runs but is fundamentally broken. For example by mandating specific patterns, these standards act as an automated gatekeeper that blocks "anti-patterns" like ```eval()``` usage or floating promises, effectively embedding decades of industry hard-knocks directly into my editor. Instead of discovering a memory leak or a scope collision during a demo, I am forced to resolve the root cause while the code is still fresh in my mind. It’s the difference between learning from a textbook and having a compiler that refuses to let you be lazy.
 
