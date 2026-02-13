@@ -22,15 +22,13 @@ When I first started coding, I viewed "coding standards" as an equivalent of a t
 
 ## Restrictions
 
-<div style="display: flow-root;">
-  <img src="../img/codingStandards/meme.png" align="right" class="rounded float-end" style="max-width: 35%; height: auto; margin: 0 0 10px 20px;">
+<img src="../img/codingStandards/meme.png" align="right" class="rounded float-end" height = "300px">
 
 
 Many students, including myself view a ESLint more like a spell-checker, but it is actually more like a structural engineer. In a language as "permissive" as JavaScript, it is very easy to write code that runs but is fundamentally broken. For example by mandating specific patterns, these standards act as an automated gatekeeper that blocks "anti-patterns" like ```eval()``` usage or floating promises, effectively embedding decades of industry hard-knocks directly into my editor. Instead of discovering a memory leak or a scope collision during a demo, I am forced to resolve the root cause while the code is still fresh in my mind. It’s the difference between learning from a textbook and having a compiler that refuses to let you be lazy.
 
 To reiterate, some students find ESLint tedious due to the nature of it's strict standards that can stifle "creativity" and to that I wholeheartedly agree, but I’ve seen the the other perspective. By automating the trivial decisions such as how to format a nested object or where to break a long line I free up time to solve the actual problem-solving. In software development where the logic is already dense, the last thing I want to do is waste my time deciphering my own or other's messy, inconsistent syntax from a previous session. When the structure is standardized, the code becomes scannable, allowing the other developers to spot logic errors rather than getting distracted by missing semicolons.
 
-</div>
 
 ## Walking into a crime scene
 
