@@ -12,7 +12,7 @@ labels:
   
 ---
 <div align="center">
-  <img style="max-width: 25%; height: auto;" src="../img/uireflection/bootstrap.png"/>
+  <img style="max-width: 10%; height: auto;" src="../img/uireflection/bootstrap.png"/>
 </div>
 ## Bootstrap vs CSS
 Learning a UI framework like Bootstrap 5 has been a headache, the syntax is unfamiliar, the utility classes seem endless, and the documentation is extremely overwhelming. I find it hard to believe why anyone would bother investing the time and frustration into learning a framework when raw HTML and CSS seem perfectly capable of getting the job done. But, as web applications scale from simple web pages into complex software, the limitations of raw, unstyled markup become obvious. The primary issue with relying solely on custom CSS is scalability. While writing raw CSS gives a developer total control over a single, static page, it quickly devolves into a fragile, tangled mess of conflicting rules and media queries as the project expands. This "spaghetti CSS" is notoriously difficult to maintain and a single tweak to a parent container can unintentionally shatter the layout on an entirely different page or device, turning updates into unpredictable debugging sessions.
