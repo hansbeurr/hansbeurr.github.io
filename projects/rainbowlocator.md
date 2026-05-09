@@ -11,9 +11,6 @@ labels:
   - Lost and Found Web Development
 summary: "ICS 314 Final Project"
 ---
-
-# Project: Rainbow Locator
-
 ## Overview
 
 Rainbow Locator is a centralized Lost and Found web application designed specifically for the University of Hawaiʻi at Mānoa community. The application aims to streamline the process of reporting lost items and reuniting them with their owners. It provides a user-friendly interface for both students and staff to post details about items they've lost or found, search through a database of reported items, and securely claim items through a verified process.

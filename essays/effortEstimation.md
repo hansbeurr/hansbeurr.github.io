@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: I Thought It Would Take 15 Minutes"
+title: "I Thought It Would Take 15 Minutes"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-08
 published: true
