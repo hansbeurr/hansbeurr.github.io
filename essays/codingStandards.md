@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "It Works => It's Correct"
+title: "It Works =/= It's Correct"
 # All dates must be YYYY-MM-DD format!
 date: 2026-02-12
 published: true
