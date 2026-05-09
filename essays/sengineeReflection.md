@@ -7,6 +7,9 @@ date: 2026-05-08
 published: true
 labels:
   - Software Engineering
+  - Configuration Management
+  - Coding Standards
+  - Ethics in Software Engineering
   
 ---
 <div align="center">
