@@ -18,7 +18,7 @@ AI has become a major part of education, especially in software engineering, bec
 The main AI tool I used was ChatGPT. I mostly used it for explanations, debugging help, code examples, writing support, and understanding software engineering concepts. I did not use AI as a replacement for doing the work, but more as a support tool when I needed help getting unstuck or organizing my thoughts. 
 
 ## Personal Experience 
-
+---
 ### Experience WODs
 
 For Experience WODs, I used AI mostly when I needed help understanding the task or getting a clearer idea of what the instructions were asking me to do. A representative prompt I used was:  
@@ -55,7 +55,7 @@ For the final project, AI was useful for debugging, implementation planning, and
 
 AI helped me save time, especially because I was balancing this project with other classes. However, I still had to test the suggestions, adjust the code to fit the project, and make sure the final result actually worked. AI helped with direction, but it did not remove the need to understand the code.
 
-### Learning a Concept / Tutorial
+### Learning a Concept or Tutorial
 
 I used AI often when learning a concept or needing a tutorial-style explanation. For example, if I was confused about React state, Tailwind styling, ESLint errors, or how a database-related feature worked, I asked AI to explain it step by step. A prompt I used was:  
 `Explain this concept like I am new to it, then give me a small example and explain each line.`
@@ -64,10 +64,7 @@ This was very helpful because AI could adjust the explanation to my level. The m
 
 ### Answering a Question in Class or Discord
 
-I did not rely heavily on AI to answer questions in class or Discord because I wanted to avoid giving an answer I did not fully understand. If I used AI, it was mainly to check whether my understanding was correct before responding. A prompt I used was:  
-`Is this explanation technically correct? Make it shorter and easier to understand.`
-
-This helped me communicate better, but I still had to make sure I understood the answer myself. I did not want to just copy an AI response into Discord because that could be misleading if the response was wrong.
+I did not rely heavily on AI to answer questions in class or Discord because I wanted to avoid giving an answer I did not fully understand. If I used AI, it was mainly to check whether my understanding was correct before responding.I did not want to just copy an AI response into Discord because that could be misleading or break a project if the response was wrong.
 
 ### Asking or Answering a Smart Question
 
