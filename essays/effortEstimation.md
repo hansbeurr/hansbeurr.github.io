@@ -6,26 +6,31 @@ title: "Effort Estimation and Tracking"
 date: 2026-05-08
 published: true
 labels:
-  - Cybersecurity
+  - Effort Estimation
   - Software Engineering
   
 ---
 
 # Reflection on IDPM Effort Estimation and Tracking
 
+<div align="center">
+  <img style="max-width: 65%; height: auto;" src="../img/effort estimation/image.png">
+</div>
+
 ## Effort Estimates
 
-For this project, I made my effort estimates by considering the difficulty of each GitHub issue, my familiarity with the task, and whether I had completed a similar task before. Smaller tasks, such as creating a simple page or adding a basic UI component, received higher estimates as well because I often get distracted when doing "simple taks". More complex tasks, such as authentication, Prisma, database setup, or deployment, received higher estimates because they required more research, testing, and debugging. While my estimates were not accurate, I tried to make them based on my honest understanding of the work rather than guessing randomly.
+For this project, I made my effort estimates by looking at how complicated each GitHub issue seemed, how familiar I was with the work, and how much testing or debugging I expected it to need. Smaller tasks were easier to estimate because they had fewer moving parts. For example, renaming “my stuff” to “my reports” was estimated at 15 minutes and ended up taking exactly 15 minutes of coding effort, so that estimate was accurate. Other tasks were harder to judge. File uploads were estimated at 120 minutes, but they ended up taking 276 minutes of coding effort and 60 minutes of non-coding effort. That showed me that tasks involving integration, debugging, and unexpected errors can take much longer than they first appear.
 
 ## Benefits of Estimating and Tracking
 
-Even when my estimates were inaccurate, which was almost all the time, estimating in advance was still helpful. It encouraged me to think carefully about the size and complexity of each issue before starting. This helped me prioritize tasks and identify which ones might require more time or support. Tracking actual effort was also useful because it showed the difference between my expectations and the actual work involved. Some tasks took longer than expected because of bugs or unfamiliar tools, while others were completed faster because I was able to reuse patterns from previous classworks and WODS. Separating coding effort from non-coding effort also helped me recognize that software development includes more than writing code. Research, planning, documentation, testing plans, and updating issues are also important parts of the development process.
+This was my first time seriously using effort estimation during a project, and honestly, I did not really like it at first. It felt uncomfortable trying to predict how long something would take before I fully understood the issue or knew what problems I would run into. Some tasks looked simple at the beginning but became much longer once testing, debugging, and fixing small details were included. For example, “Playwright and ESLint Tests” was estimated at 120 minutes but took 192 minutes of coding effort, and “Final Touches” was estimated at 120 minutes but took 244 minutes of coding effort. Even though I did not enjoy estimating, I can see why it was useful. It made me more aware of how often I underestimate testing, cleanup, and unexpected bugs.
 
 ## Tracking Method
 
-I tracked coding effort by recording the time I spent actively writing code, debugging, testing, refactoring, and integrating changes into the project. For non-coding effort, I manually tracked time spent planning, researching, writing documentation, and updating GitHub issues. Coding effort was easier to track because it usually happened while I was directly working in the code editor. Non-coding effort was more difficult to measure because it included smaller tasks such as reading documentation, reviewing requirements, or thinking through the best approach to a problem. In the future, I would record start and stop times more consistently so that my tracking is more accurate and less dependent on my memory.
+I tracked coding effort by recording the time I spent actively writing code, editing files, testing features, fixing errors, and connecting changes to the rest of the project. Most of my coding time was tracked with a start-and-stop timer at one-hour intervals. For non-coding effort, I mostly used my best guess, which included planning, researching, reviewing requirements, discussing tasks, updating issues, and writing documentation. Looking at the time sheet, some tasks had a large non-coding portion such as, “Add functionality to admin dashboard” had 178 minutes of coding effort and 120 minutes of non-coding effort, while “Create a search feature in browse items” had 45 minutes of coding effort and 90 minutes of non-coding effort. This made it clear that a lot of the work was not just typing code, but also figuring out what needed to be built and how it should fit into the project.
 
 ## AI Use and Future Improvements
 
-To be trasnparent, I used AI assistance for some coding and prompting during the project. AI helped me understand alot of confusing errors, implementation steps, and think through debugging strategies that usually falls out of my knowledge scope. When I used AI for coding, debugging, or integration, I counted that time as coding effort, such as writing prompts, reviewing the response, testing the suggestion, and almost always manually correcting anything that did not work. In the future, I would break larger issues into smaller tasks, write a brief reason for each estimate, and track both coding and non-coding time while I am actively working, since I almost always catch myself creating an issue for a big task and running into problems that could have been broken into a smaller task but have been too far in into the issue itself.
+I used AI assistance throughout the project for coding, debugging, explanations, and prompting. Most of the time, I used it when I was stuck on an error, unsure how to approach an implementation, or needed help understanding what part of the code was causing a problem. This was especially helpful for tasks involving testing, file uploads, search, filters, deployment, and page functionality. Additionaly, with the use of AI it has helped me balance work from other classes by helping me use my time more efficiently and avoid spending too long stuck on one issue.
 
+As for recording it's usage When AI directly helped me write, revise, test, debug, or integrate code, I counted that time as coding effort. For planning, I did not really use AI because I mostly relied on my own best judgment and estimates. In the future, I would track AI use more carefully by recording how much time I spent writing prompts, reviewing responses, testing suggestions, and manually fixing anything that did not work. I would also rely less on best guesses for non-coding time and use exact start-and-stop times instead, because the time sheet and the final project showed that non-coding work was a bigger part of the project than I originally expected.
