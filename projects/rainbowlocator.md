@@ -47,6 +47,6 @@ Working on Rainbow Locator was a significant learning experience that provided s
 *Browsing reported lost and found items.*
 
 ## Repositories
-[Learn More](https://pacificbytes.github.io/)
-[Rainbow Locator GitHub Organization Page](https://github.com/pacificbytes)
-[Rainbow Locator Source Code](https://github.com/pacificbytes/rainbow-locator)
+- [Learn More](https://pacificbytes.github.io/)
+- [Rainbow Locator GitHub Organization Page](https://github.com/pacificbytes)
+- [Rainbow Locator Source Code](https://github.com/pacificbytes/rainbow-locator)
