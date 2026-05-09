@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["Python", "Javascript", "Bash", "SQL","Typescript" ]
+      "keywords": ["Python", "Javascript", "Bash", "SQL","Typescript", "NextJS", "Bootstrap", "React" ]
     },
     {
       "name": "Toolsets/OS",
