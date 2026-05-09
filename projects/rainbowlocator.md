@@ -39,14 +39,14 @@ Working on Rainbow Locator was a significant learning experience that provided s
 
 ## Screenshots
 
-![Landing Page](../img/rainbow-locator/1.png)
-
+<img src="../img/rainbow-locator/1.png" style="max-width: 100%; height: auto;">
 *Rainbow Locator Landing Page*
 
-![List Items](../img/rainbow-locator/2.png)
-![Show Items](../img/rainbow-locator/3.png)
-
+<img src="../img/rainbow-locator/2.png" style="max-width: 100%; height: auto;">
+<img src="../img/rainbow-locator/3.png" style="max-width: 100%; height: auto;">
 *Browsing reported lost and found items.*
 
 ## Repositories
-[Rainbow Locator GitHub Organization Page](https://github.com/pacificbytes/rainbow-locator)
+[Learn More](https://pacificbytes.github.io/)
+[Rainbow Locator GitHub Organization Page](https://github.com/pacificbytes)
+[Rainbow Locator Source Code](https://github.com/pacificbytes/rainbow-locator)
